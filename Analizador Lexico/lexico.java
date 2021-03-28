@@ -1,6 +1,6 @@
 /**
  *
- * @author Ruth
+ * @author Ruth Maidana
  */
 public class lexico {
     // Representan la tabla se simbolos
