@@ -239,7 +239,7 @@ public class main {
         while(TokenEnVector(analizadorLex.getTokens(),sync )==1){
             if(analizadorLex.getTam()< input.length()){ break;}
                 analizadorLex.getToken();
-                System.out.println("error se pasa a siguiente palabra");    
+                System.out.println("Error");    
         }
     }
     
