@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Ruth
+ * @author Ruth Maidana
  */
 public class main {
     lexema analizadorLex;
@@ -373,3 +373,4 @@ public class main {
         new main(); 
     }
 }
+//RUTH MAIDANA CI: 5 706 718
