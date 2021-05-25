@@ -1,6 +1,6 @@
 /**
  *
- * @author Ruth
+ * @author Ruth Maidana   
  */
 public class lexema {
     //variable que realiza el analisis lexico
@@ -91,3 +91,4 @@ public class lexema {
     
     
 }
+//RUTH MAIDANA CI:5 706 718
