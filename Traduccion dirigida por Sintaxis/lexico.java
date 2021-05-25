@@ -1,6 +1,6 @@
 /**
  *
- * @author Ruth
+ * @author Ruth Maidana
  */
 public class lexico {
      String salida="";
@@ -162,3 +162,4 @@ public class lexico {
         return pl;
     }
 }
+//RUTH MAIDANA CI: 5 706 718
